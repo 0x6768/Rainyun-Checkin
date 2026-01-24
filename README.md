@@ -2,16 +2,6 @@
 
 雨云每日自动签到工具，支持 ARM / AMD64 平台，Docker 一键部署。
 
-## 致谢
-
-本项目基于以下仓库二次开发：
-
-| 版本 | 作者 | 仓库 | 说明 |
-|------|------|------|------|
-| 原版 | SerendipityR | [Rainyun-Qiandao](https://github.com/SerendipityR-2022/Rainyun-Qiandao) | 初始 Python 版本 |
-| 二改 | fatekey | [Rainyun-Qiandao](https://github.com/fatekey/Rainyun-Qiandao) | Docker 化改造 |
-| 三改 | Jielumoon | 本仓库 | 稳定性优化 + 自动续费 |
-
 ## 功能特性
 
 - ✅ 每日自动签到（验证码识别）
@@ -93,6 +83,16 @@ docker-compose up --build
 # 每天早上 8 点执行
 0 8 * * * docker compose -f /path/to/docker-compose run --rm rainyun-qiandao
 ```
+
+## 致谢
+
+本项目基于以下仓库二次开发：
+
+| 版本 | 作者 | 仓库 | 说明 |
+|------|------|------|------|
+| 原版 | SerendipityR | [Rainyun-Qiandao](https://github.com/SerendipityR-2022/Rainyun-Qiandao) | 初始 Python 版本 |
+| 二改 | fatekey | [Rainyun-Qiandao](https://github.com/fatekey/Rainyun-Qiandao) | Docker 化改造 |
+| 三改 | Jielumoon | 本仓库 | 稳定性优化 + 自动续费 |
 
 ## License
 
