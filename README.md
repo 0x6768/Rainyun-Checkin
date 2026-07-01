@@ -14,13 +14,13 @@
 | [X] GitHub Actions 部署 | 🟢 支持 | 无需服务器，完全免费 |
 | [X] Docker 支持 | 🟢 支持 | 可选 Docker 容器化部署 |
 | [X] 随机延迟 | 🟢 支持 | 避免请求模式被识别 |
-| [x] 仓库自动保功能 | 🟢 支持 | 防止60天不动被关 |
+| [X] 仓库自动保功能 | 🟢 支持 | 防止60天不动被关 |
 | 📊 积分查询 | 🟢 支持 | 显示当前积分和人民币价值 |
 
 ## 🚀 快速开始
 
 ### 1. Fork 仓库
-https://img.shields.io/badge/Fork-本仓库-4285F4?style=for-the-badge&logo=github](https://github.com/0x6768/Rainyun-Checkin/fork)
+[https://img.shields.io/badge/Fork-本仓库-4285F4?style=for-the-badge&logo=github](https://github.com/0x6768/Rainyun-Checkin/fork)
 
 点击上方按钮或访问 https://github.com/0x6768/Rainyun-Checkin/fork
 
